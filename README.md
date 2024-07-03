@@ -1,4 +1,4 @@
-Markdown
+
 # Unreal Engine Game with Custom Movement
 
 This is a repository for an Unreal Engine game featuring a custom movement system built from the ground up. The player controller handles all input, allowing for a high degree of control and customization.
